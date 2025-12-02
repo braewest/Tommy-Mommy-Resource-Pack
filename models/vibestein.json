@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": item/carved_pumpkin/"vibestein_back",
-		"1": item/carved_pumpkin/"vibestein"
+		"1": item/carved_pumpkin/"vibestein_back",
+		"2": item/carved_pumpkin/"vibestein"
 	},
 	"elements": [
 		{
