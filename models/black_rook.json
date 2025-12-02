@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/carved_pumpkin/white_rook",
-		"particle": "white_rook"
+		"0": "item/carved_pumpkin/black_rook",
+		"particle": "black_rook"
 	},
 	"elements": [
 		{
