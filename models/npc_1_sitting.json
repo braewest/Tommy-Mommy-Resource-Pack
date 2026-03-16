@@ -1,6 +1,0 @@
-{
-  "parent": "item/carved_pumpkin/template_player_sitting",
-  "textures": {
-    "0": "item/carved_pumpkin/npc_1"
-  }
-}
