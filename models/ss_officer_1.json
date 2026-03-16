@@ -1,0 +1,6 @@
+{
+  "parent": "item/carved_pumpkin/template_player",
+  "textures": {
+    "0": "item/carved_pumpkin/ss_officer_1"
+  }
+}
