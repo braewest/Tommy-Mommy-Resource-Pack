@@ -3,8 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/carved_pumpkin/shoulder_cat",
-		"particle": "item/carved_pumpkin/shoulder_cat"
+		"0": "item/shoulder_cat"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
-  "parent": "item/carved_pumpkin/template_player_sitting",
+  "parent": "item/template_player_sitting",
   "textures": {
-    "0": "item/carved_pumpkin/ss_bandit_1"
+    "0": "item/ss_bandit_1"
   }
 }

@@ -3,9 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/carved_pumpkin/eco_shades_glass",
-		"1": "item/carved_pumpkin/eco_shades",
-		"particle": "item/carved_pumpkin/eco_shades_glass"
+		"0": "item/eco_shades_glass",
+		"1": "item/eco_shades"
 	},
 	"elements": [
 		{

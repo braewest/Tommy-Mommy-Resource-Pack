@@ -3,8 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/carved_pumpkin/white_bishop",
-		"particle": "white_bishop"
+		"0": "item/white_bishop"
 	},
 	"elements": [
 		{

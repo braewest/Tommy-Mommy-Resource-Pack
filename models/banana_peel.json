@@ -3,8 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/carved_pumpkin/banana_peel",
-		"particle": "item/carved_pumpkin/banana_peel"
+		"0": "item/banana_peel"
 	},
 	"elements": [
 		{

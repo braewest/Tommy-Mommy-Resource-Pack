@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 64],
 	"textures": {
-		"0": "item/carved_pumpkin/Gideon"
+		"0": "item/Gideon"
 	},
 	"elements": [
 		{

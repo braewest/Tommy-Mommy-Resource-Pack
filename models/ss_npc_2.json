@@ -1,6 +1,6 @@
 {
-  "parent": "item/carved_pumpkin/template_player",
+  "parent": "item/template_player",
   "textures": {
-    "0": "item/carved_pumpkin/ss_npc_2"
+    "0": "item/ss_npc_2"
   }
 }

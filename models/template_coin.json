@@ -1,10 +1,6 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "copper_piece",
-		"particle": "copper_piece"
-	},
 	"elements": [
 		{
 			"from": [6, 8.25, 6],
