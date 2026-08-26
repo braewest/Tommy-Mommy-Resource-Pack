@@ -1,5 +1,5 @@
 {
-  "parent": "item/carved_pumpkin/template_coin",
+  "parent": "item/template_coin",
   "textures": {
     "0": "item/gold_piece"
   }
