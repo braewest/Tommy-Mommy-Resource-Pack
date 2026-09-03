@@ -401,7 +401,7 @@
 		"fixed": {
 			"rotation": [-90, 0, 0],
 			"translation": [0, 0, -21.75],
-			"scale": [2.7, 2.7, 2.7]
+			"scale": [4, 4, 4]
 		},
 		"on_shelf": {
 			"rotation": [0, -180, 0]
