@@ -1,0 +1,6 @@
+{
+  "parent": "item/template_player_sitting",
+  "textures": {
+    "0": "item/ss_npc_13"
+  }
+}
