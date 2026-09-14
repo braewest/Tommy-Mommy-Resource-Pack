@@ -2,7 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"6": "yew_wand"
+		"6": "item/yew_wand"
 	},
 	"elements": [
 		{
